@@ -2,6 +2,19 @@
 
 #### The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)  
 
+## Custom Data Dictionary
+
+TIME TO FALL ASLEEP: the amount of time in minutes to fall asleep
+  RESTFUL: the amount of time in minutes spent in a restful state
+   RESTLESS: the amount of time in minutes spent in a restless state 
+    HEART RATE: the frequency of heartbeats per minute
+     HEART RATE VARIABILITY: the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress
+      BREATH RATE: the number of breaths per minute
+       MOON PHASES: the monthly phases or cycles of the moon
+
+
+print(my_dictionary)
+
 ### Features Included in Data Analysis 2 Project:
 
 Feature 1: Read TWO data files (JSON,
