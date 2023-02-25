@@ -5,7 +5,7 @@
 ### Features Included in Data Analysis 2 Project:
 
 Feature 1: Read TWO data files (JSON,
-CSV, Excel, etc.).
+CSV, Excel, etc.)
 
 Feature 2: Clean your data and
 perform a pandas merge
@@ -34,9 +34,7 @@ This will only apply if your
 data set does not already
 have a data dictionary or if
 you’re building a custom 
-data set. For an example,
-see the resources to the
-right.
+data set.
 
 Feature 5: Annotate your code with
 markdown cells in Jupyter
