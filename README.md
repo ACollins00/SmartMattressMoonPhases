@@ -1,5 +1,7 @@
 # SmartMattressMoonPhases
 
+The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)  
+
 ### Features Included in Data Analysis 2 Project:
 
 Feature 1: Read TWO data files (JSON,
