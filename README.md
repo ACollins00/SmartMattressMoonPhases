@@ -4,16 +4,25 @@
 
 ## Custom Data Dictionary
 
-TIME TO FALL ASLEEP: the amount of time in minutes to fall asleep
-  RESTFUL: the amount of time in minutes spent in a restful state
-   RESTLESS: the amount of time in minutes spent in a restless state 
-    HEART RATE: the frequency of heartbeats per minute
-     HEART RATE VARIABILITY: the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress
-      BREATH RATE: the number of breaths per minute
-       MOON PHASES: the monthly phases or cycles of the moon
+***TIME TO FALL ASLEEP: the amount of time in minutes to fall asleep
+RESTFUL: the amount of time in minutes spent in a restful state
+RESTLESS: the amount of time in minutes spent in a restless state 
+HEART RATE: the frequency of heartbeats per minute
+HEART RATE VARIABILITY: the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress
+BREATH RATE: the number of breaths per minute
+MOON PHASES: the monthly phases or cycles of the moon
 
+Note: The above CUSTOM DATA DICTIONARY demonstrates Feature 4
 
-print(my_dictionary)
+Feature 4: Build a custom data
+dictionary and include it
+either in your README or
+as a separate document.
+This will only apply if your
+data set does not already
+have a data dictionary or if
+you’re building a custom 
+data set.
 
 ### Features Included in Data Analysis 2 Project:
 
