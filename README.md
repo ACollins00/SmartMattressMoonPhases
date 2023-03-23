@@ -10,12 +10,12 @@
 |--------|--------------|
 |TIME TO FALL ASLEEP|the amount of time in minutes to fall asleep|
 |RESTFUL|the amount of time in minutes spent in a restful state|
-RESTLESS: the amount of time in minutes spent in a restless state 
-HEART RATE: the frequency of heartbeats per minute
-HEART RATE VARIABILITY: the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress
-BREATH RATE: the number of breaths per minute
-MOON PHASES: the monthly phases or cycles of the moon
-*MOON PHASES ARE ASSIGNED A NUMERICAL VALUE BASED ON THE PATICULAR PHASE IN ORDER TO SHOW ON A GRAPH. A VALUE OF 200 INDICATES THE MOON IS IN A NEW PHASE
+|RESTLESS|the amount of time in minutes spent in a restless state|
+|HEART RATE|the frequency of heartbeats per minute|
+|HEART RATE VARIABILITY|the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress|
+|BREATH RATE|the number of breaths per minute|
+|MOON PHASES|the monthly phases or cycles of the moon|
+***MOON PHASES ARE ASSIGNED A NUMERICAL VALUE BASED ON THE PATICULAR PHASE IN ORDER TO SHOW ON A GRAPH. A VALUE OF 200 INDICATES THE MOON IS IN A NEW PHASE***
 
 Note: The above CUSTOM DATA DICTIONARY demonstrates Feature 4
 
