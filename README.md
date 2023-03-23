@@ -2,9 +2,13 @@
 
 ### Do the phases of the moon affect sleep patterns? A smart mattress may help answer this question. Moon phases have an affect on many different things. The most notable affect is how it creates low and high tides and the human body is approximately 60% water. It reasonable to believe the moon may influence our body as well. By examining two months of sleep stats from my smart mattress and comparing it to the phases of the moon, I can see if there is a pattern. I’ll be looking at the phases of the moon and 6 specific biometrics for each night: time to fall asleep, restful minutes, restless minutes,  heart rate, heart rate variability, and breath rate. 
 
-#### The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, matplotlib, matplotlib.pyplot, and numpy (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)  
+#### The project is done in Visual Studio Code in Jupyter Notebook. The packages needed to run the program are: pandas, numpy, matplotlib, matplotlib.pyplot, matplotlib.dates, matplotlib.date drange, and datetime (pip3 install pandas, pip3 install matplotlib, pip3 install matplotlib.pyplot, pip3 install numpy.)  
 
 ## Custom Data Dictionary
+
+|  TERM  |  DEFINITION  |
+|--------|--------------|
+|Time to Fall Asleep| xyz|
 
 TIME TO FALL ASLEEP: the amount of time in minutes to fall asleep
 RESTFUL: the amount of time in minutes spent in a restful state
