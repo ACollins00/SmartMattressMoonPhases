@@ -8,9 +8,9 @@
 
 |  TERM  |  DEFINITION  |
 |--------|--------------|
-|Time to Fall Asleep| xyz|
+|TIME TO FALL ASLEEP|the amount of time in minutes to fall asleep|
+|--------|--------------|
 
-TIME TO FALL ASLEEP: the amount of time in minutes to fall asleep
 RESTFUL: the amount of time in minutes spent in a restful state
 RESTLESS: the amount of time in minutes spent in a restless state 
 HEART RATE: the frequency of heartbeats per minute
