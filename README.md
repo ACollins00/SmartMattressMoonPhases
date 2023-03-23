@@ -9,9 +9,7 @@
 |  TERM  |  DEFINITION  |
 |--------|--------------|
 |TIME TO FALL ASLEEP|the amount of time in minutes to fall asleep|
-|--------|--------------|
-
-RESTFUL: the amount of time in minutes spent in a restful state
+|RESTFUL|the amount of time in minutes spent in a restful state|
 RESTLESS: the amount of time in minutes spent in a restless state 
 HEART RATE: the frequency of heartbeats per minute
 HEART RATE VARIABILITY: the amount of time between fluctuations of a heartbeat; this may reflect the body's response to stress
