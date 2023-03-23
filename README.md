@@ -42,12 +42,6 @@ then calculate some new
 values based on the new
 data set.
 
-Extra Feature 2: Clean your data and
-perform a SQL join with
-your data sets using either
-plain sql or the pandasql
-Python library.
-
 Feature 3: Make 3 matplotlib or
 seaborn (or another
 plotting library)
