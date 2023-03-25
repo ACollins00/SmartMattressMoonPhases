@@ -16,6 +16,14 @@
 |BREATH RATE|the number of breaths per minute|
 |MOON PHASES|the monthly phases or cycles of the moon|
 
+
+| Number Associated with Phases | Moon Phase |
+|10|Waxing Gibbous|
+|20|Waning Gibbous|
+|30|Waning Crescent|
+|40|Waxing Crescent|
+|150|New Moon Phase|
+
 ***MOON PHASES ARE ASSIGNED A NUMERICAL VALUE BASED ON THE PATICULAR PHASE IN ORDER TO SHOW ON A GRAPH. A VALUE OF 150 INDICATES THE MOON IS IN A NEW PHASE***
 
 Note: The above CUSTOM DATA DICTIONARY demonstrates Feature 4
