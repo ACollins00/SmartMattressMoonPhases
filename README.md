@@ -18,6 +18,7 @@
 
 
 | Number Associated with Phases | Moon Phase |
+|-------|-------|
 |10|Waxing Gibbous|
 |20|Waning Gibbous|
 |30|Waning Crescent|
