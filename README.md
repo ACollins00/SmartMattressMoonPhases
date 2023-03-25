@@ -25,6 +25,17 @@
 |40|Waxing Crescent|
 |150|New Moon Phase|
 
+| Specific Moon Phase | Date |
+|-----|-----|
+|December 7, 2022|Full Cold Moon|
+|December 16, 2022| Last Quater|
+|December 23, 2022|New Moon|
+|December 29, 2022|First Quarter|
+|January 6, 2023|Full Wolf|
+|January 14, 2023|Last Quarter|
+|January 21, 2023|New Moon|
+|January 28, 2023|First Quarter|
+
 ***MOON PHASES ARE ASSIGNED A NUMERICAL VALUE BASED ON THE PATICULAR PHASE IN ORDER TO SHOW ON A GRAPH. A VALUE OF 150 INDICATES THE MOON IS IN A NEW PHASE***
 
 Note: The above CUSTOM DATA DICTIONARY demonstrates Feature 4
